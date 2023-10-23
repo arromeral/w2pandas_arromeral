@@ -27,7 +27,7 @@ I have also used a custom **checknan** function to see the distribution of null 
 #### Improving syntax
 For better use of the data, some column names have been modified, removing spaces and unnecessary characters, making it more understandable. The datatype of some columns has also been changed and the data of almost identical columns has been homogenized. For this, the *.rename()* method has been used largely.
 #### Eliminating useless information
-Once the distribution of null values ​​has been studied, those records where the majority of the columns had null values ​​have been eliminated, considerably reducing the size of the DataFrame.
+Once the distribution of null values ​​has been studied, those records where the majority of the columns had null values ​​had been eliminated, considerably reducing the size of the DataFrame.
 
 One of the conditions at the beginning of the project was not to reduce the number of columns, so columns with a large number of nulls have been reused to store more useful data, such as the number of nulls per row(*num_nan column*).
 #### Improving accessibility to data
