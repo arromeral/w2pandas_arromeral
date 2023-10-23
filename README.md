@@ -56,7 +56,7 @@ Below is the reduction in the number of unique values/categories of the main col
 - fatal: from 8 to 3 (Yes, No & unknown).
 - time: from 366 to 4 (morning, afternoon, night & unknown)
 - species: from 1549 to 342. (retaining and concentrating a significant number of records in the main species)
-- activity: from 1532 to 37.(retaining and concentrating a significant number of records in the main species)
+- activity: from 1532 to 37.(retaining and concentrating a significant number of records in the main activities)
 - month: New column with 12 unique values(one for each month of the year)
   ## **IMPORTANT**
   During this homogenization process, 730 records containing relevant information about real attacks have been lost/deleted.
