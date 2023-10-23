@@ -61,3 +61,7 @@ Below is the reduction in the number of unique values/categories of the main col
   ## **IMPORTANT**
   During this homogenization process, 730 records containing relevant information about real attacks have been lost/deleted.
 ## Wrangling & Analysis outputs
+The main studies carried out with the clean database and some of the relevant outputs are detailed below.
+### **Annual distribution of attacks in countries with more than 30 records**
+	![Australia](./images/Australia-meses.png) 
+ 
