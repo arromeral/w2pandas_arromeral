@@ -67,6 +67,24 @@ The main studies carried out with the clean database and some of the relevant ou
 ![Sudáfrica](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/94be5107-3194-42b8-a49c-a6acf5b9dbcb)
 ![USA](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/3d44f15b-95b2-4e76-a0c0-9a4baf6b4703)
 ![Brasil](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/bd7268eb-1540-416f-9378-7acda02f5554)
+### **Percentages of attacks by sex in countries with more than 100 records**
+<img width="156" alt="perc-bysex" src="https://github.com/arromeral/w2pandas_arromeral/assets/138980560/512b5e97-2611-4cce-8cca-b2ca81dc7b45">
+
+### **Countries with the highest and lowest average age of victims (for countries with more than 40 records)**
+- *UK maximum with **36.54** years*
+- *Papua New Guinea the minimum with **21.18** years*
+### **Search for correlations between sex and activity during the attack**
+- MALES: **Surfing**
+- FEMALES: **Swimming**
+### **Search for correlations between sex and time of day**
+- MALES: **Night (00-06 h)**
+- FEMALES: **Afternoon (12-24 h)**
+### **Representation of the percentage of FATALITY for some of the main shark species**
+![White shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/3aef3495-852d-4609-8de2-8214a2da7211)
+![Tiger shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/e9c1098c-e41c-4e30-ab99-325777d5c7ba)
+![Bull shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/8cc02205-af68-4d1f-943a-7920d977137d)
+![Blue shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/cb30f0db-2635-42ee-9ddd-818ada6e2ed9)
+![Hammer shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/0e2d6314-6892-4ad2-b97e-11641f2601d5)
 
 
 
