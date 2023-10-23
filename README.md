@@ -63,5 +63,11 @@ Below is the reduction in the number of unique values/categories of the main col
 ## Wrangling & Analysis outputs
 The main studies carried out with the clean database and some of the relevant outputs are detailed below.
 ### **Annual distribution of attacks in countries with more than 30 records**
-	![Australia](https://github.com/arromeral/w2pandas_arromeral/blob/main/images/Australia-meses.png?raw=true) 
+![Australia](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/b90eb180-05ef-4886-b76e-f021e7ad181e)
+![Sudáfrica](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/94be5107-3194-42b8-a49c-a6acf5b9dbcb)
+![USA](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/3d44f15b-95b2-4e76-a0c0-9a4baf6b4703)
+![Brasil](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/bd7268eb-1540-416f-9378-7acda02f5554)
+
+
+
  
