@@ -39,7 +39,7 @@ To do this, different methods and tools have been used, including a series of cu
 The Country column has been considered of special interest, so work has been done to clean it in greater depth. To do this, a dictionary has been created from a csv file that relates the name of the country with its ISO3 code, which is the data that has finally been used to categorize the column.
 
 ### Analysis stage:
-Once the dataframe has been cleaned, the efficiency of the work has been verified by carrying out a series of analyzes and studies based on the clean dataframe. Some of the most relevant outputs can be seen in the Wrangling & Analysis outputs section of this document.
+Once the dataframe has been cleaned, the efficiency of the work has been verified by carrying out a series of analyzes and studies based on the clean dataframe. Some of the most relevant outputs can be seen in the Wrangling & Analysis outputs section in this document.
 
 To carry out these analyzes I have made extensive use of the Pandas methods, groupby, get_dummies and corr(), in addition to other numpy functions.
 
