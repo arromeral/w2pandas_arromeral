@@ -87,7 +87,7 @@ The main studies carried out with the clean database and some of the relevant ou
 ![Bull shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/8cc02205-af68-4d1f-943a-7920d977137d)
 ![Blue shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/cb30f0db-2635-42ee-9ddd-818ada6e2ed9)
 ![Hammer shark](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/0e2d6314-6892-4ad2-b97e-11641f2601d5)
-### **Evolution of fatality rate since 1950
+### **Evolution of fatality rate since 1950**
 ![Fatality vs Year (1950-2018)](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/76c2ba3f-05b1-4e81-8f32-d392bacefe96)
 
 
