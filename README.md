@@ -13,11 +13,14 @@ The contents of the project are as follows:
 - [src folder](https://github.com/arromeral/w2pandas_arromeral/tree/main/src):
   - [jaws.ipynb](https://github.com/arromeral/w2pandas_arromeral/blob/main/src/jaws.ipynb): Jupyter notebook with the main code used to clean and obtain results.
   - [funclean.ipynb](https://github.com/arromeral/w2pandas_arromeral/blob/main/src/funclean.ipynb): Jupyter notebook with some custom functions to clean and categorize columns used in jaws.ipynb.
--[images](https://github.com/arromeral/w2pandas_arromeral/tree/main/images): Folders with some pictures of charts obtained during the analysis.
--[attacks.csv](https://github.com/arromeral/w2pandas_arromeral/blob/main/attacks.csv): original csv document with raw data.
--[attacks_clean.csv](https://github.com/arromeral/w2pandas_arromeral/blob/main/attacks_clean.csv): final csv document exported with clean data.
--[paises.csv](https://github.com/arromeral/w2pandas_arromeral/blob/main/paises.csv): csv document containing the ISO2 and ISO3 codes of most countries and their name in several languages.
-
+- [images](https://github.com/arromeral/w2pandas_arromeral/tree/main/images): Folders with some pictures of charts obtained during the analysis.
+- [attacks.csv](https://github.com/arromeral/w2pandas_arromeral/blob/main/attacks.csv): original csv document with raw data.
+- [attacks_clean.csv](https://github.com/arromeral/w2pandas_arromeral/blob/main/attacks_clean.csv): final csv document exported with clean data.
+- [paises.csv](https://github.com/arromeral/w2pandas_arromeral/blob/main/paises.csv): csv document containing the ISO2 and ISO3 codes of most countries and their name in several languages.
 ## Methodology
+### Cleaning stage:
+
+For the cleaning phase, different methodologies based on the Pandas library have been used with the aim of examining, understanding, improving the syntax and eliminating useless information.
+
 ## Cleaning outputs
 ## Wrangling & Analysis outputs
