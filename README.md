@@ -45,4 +45,19 @@ To carry out these analyzes I have made extensive use of the Pandas methods, gro
 
 I have also used the pyplot and seaborn libraries to represent some of the findings.
 ## Cleaning outputs
+- The dataframe has been reduced from 25723 records to 5572.
+- Null values ​​have been reduced to 0.
+### Categorization improvements
+Below is the reduction in the number of unique values/categories of the main columns
+- Country: from 212 to 113.
+- Year: from 249 to 216.
+- sex: from 6 to 3 (Male, Female & unknown).
+- age: from 157 to 82.
+- fatal: from 8 to 3 (Yes, No & unknown).
+- time: from 366 to 4 (morning, afternoon, night & unknown)
+- species: from 1549 to 342. (retaining and concentrating a significant number of records in the main species)
+- activity: from 1532 to 37.(retaining and concentrating a significant number of records in the main species)
+- month: New column with 12 unique values(one for each month of the year)
+  ## **IMPORTANT**
+  During this homogenization process, 730 records containing relevant information about real attacks have been lost/deleted.
 ## Wrangling & Analysis outputs
