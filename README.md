@@ -68,9 +68,7 @@ The main studies carried out with the clean database and some of the relevant ou
 ![USA](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/3d44f15b-95b2-4e76-a0c0-9a4baf6b4703)
 ![Brasil](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/bd7268eb-1540-416f-9378-7acda02f5554)
 ### **Percentages of attacks by sex in countries with more than 100 records**
-<img width="156" alt="perc-bysex" src="https://github.com/arromeral/w2pandas_arromeral/assets/138980560/9968785f-ebf8-409b-a18f-9c2bc4892cd5">
-
-
+![](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/251b2786-80f4-4dda-858d-276a286f82b8)
 
 ### **Countries with the highest and lowest average age of victims (for countries with more than 40 records)**
 - *UK maximum with **36.54** years*
