@@ -24,6 +24,8 @@ For the cleaning phase, different methodologies based on the Pandas library have
 #### Examining & undestanding
 First, the document has been examined using the *.shape()* and *.info()* methods to find out the size of the DataFrame, the data types and the columns with null values.
 I have also used a custom **checknan** function to see the distribution of null values ​​in rows and columns.
+![check_nan](https://github.com/arromeral/w2pandas_arromeral/assets/138980560/f6faaff1-99a4-49b3-bd97-aa67dd17315c)
+
 #### Improving syntax
 For better use of the data, some column names have been modified, removing spaces and unnecessary characters, making it more understandable. The datatype of some columns has also been changed and the data of almost identical columns has been homogenized. For this, the *.rename()* method has been used largely.
 #### Eliminating useless information
