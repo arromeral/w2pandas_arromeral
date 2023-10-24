@@ -47,7 +47,7 @@ To carry out these analyzes I have made extensive use of the Pandas methods, gro
 
 I have also used the pyplot and seaborn libraries to represent some of the findings.
 ## Cleaning outputs
-- The dataframe has been reduced from 25723 records to 5572.
+- The dataframe has been reduced from 25723 rows to 5572.
 - Null values ​​have been reduced to 0.
 ### Categorization improvements
 Below is the reduction in the number of unique values/categories of the main columns
