@@ -34,11 +34,11 @@ Once the distribution of null values ​​has been studied, those records where
 One of the conditions at the beginning of the project was not to reduce the number of columns, so columns with a large number of nulls have been reused to store more useful data, such as the number of nulls per row(*num_nan column*).
 #### Improving accessibility to data
 In this phase, first of all, the null values ​​of records of interest have been replaced by the word "unknown" so that they can be used more easily in future analyzes.
-Next, I have focused on trying to clean the data in the columns of greatest interest for future studies, such as Country, Sex, Activity, Species, Time or Fatal, trying to categorize each column as much as possible, reducing the number of unique values ​​in those columns. Also, the Date column has been converted into the Month column based on the original information in said column.
+Next, I have focused on trying to clean the data in the columns of greatest interest for future studies, such as **Country, Sex, Activity, Species, Time or Fatal**, trying to categorize each column as much as possible, reducing the number of unique values ​​in those columns. Also, the **Date** column has been converted into the **Month** column based on the original information in said column.
 
 To do this, different methods and tools have been used, including a series of custom functions to edit the records to a homogeneous syntax and to search them for keywords that can be used to categorize each column.
 
-The Country column has been considered of special interest, so work has been done to clean it in greater depth. To do this, a dictionary has been created from a csv file that relates the name of the country with its ISO3 code, which is the data that has finally been used to categorize the column.
+The **Country column** has been considered of special interest, so work has been done to clean it in greater depth. To do this, a dictionary has been created from a csv file that relates the name of the country with its ISO3 code, which is the data that has finally been used to categorize the column.
 
 ### Analysis stage:
 Once the dataframe has been cleaned, the efficiency of the work has been verified by carrying out a series of analyzes and studies based on the clean dataframe. Some of the most relevant outputs can be seen in the Wrangling & Analysis outputs section in this document.
